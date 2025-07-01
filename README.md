@@ -1,8 +1,8 @@
 <h1 align="center">Hi there👋</h1>
-<h3 align="center">I'm Urszula, AI Software Developer, NLP researcher 🌸</h3>
+<h3 align="center">🐝 I'm Urszula, AI Software Developer, NLP researcher 🌸</h3>
 
 #### 💫 About Me:
-🔭 I’m currently working on **finishing PhD in NLP in Polish**<br>👯 I’m looking to collaborate on **[Bielik](https://bielik.ai/)**<br><!--🤝 I’m looking for help with<br>🌱 I’m currently learning <br>-->💬 Ask me about **AI, NLP and my research.**<br>😄 Pronouns: **she/her**<br>⚡ Fun fact: **I have over 900-day strike on Duolingo (learning French)** 🦉
+🔭 I’m currently working on **finishing PhD in NLP in Polish and [oneAPI code samples](https://github.com/oneapi-src/oneAPI-samples)**<br>👯 I’m looking to collaborate on **[Bielik](https://bielik.ai/)**<br><!--🤝 I’m looking for help with<br>🌱 I’m currently learning <br>-->💬 Ask me about **AI, NLP and my research**<br>😄 Pronouns: **she/her**<br>⚡ Fun fact: **I have over 900-day strike on Duolingo (learning French)** <br>🐧 You can find my additional contibutions as **[krzeszew](https://github.com/krzeszew)**
 
 <!-- ### 🚀 Expertise: -->
 
